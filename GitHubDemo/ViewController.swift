@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("GitHub Demo")
         print("Log Added By Pratik")
-        print("Third log added to pratik branch")
+        print("Third log added to Sanket branch")
         
     }
 
