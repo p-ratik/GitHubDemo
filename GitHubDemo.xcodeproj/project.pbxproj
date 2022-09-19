@@ -16,6 +16,7 @@
 		A9842F6028D8652200744775 /* GitHubDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9842F5F28D8652200744775 /* GitHubDemoTests.swift */; };
 		A9842F6A28D8652200744775 /* GitHubDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9842F6928D8652200744775 /* GitHubDemoUITests.swift */; };
 		A9842F6C28D8652200744775 /* GitHubDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9842F6B28D8652200744775 /* GitHubDemoUITestsLaunchTests.swift */; };
+		A9842F7928D86C6600744775 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9842F7828D86C6600744775 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A9842F6528D8652200744775 /* GitHubDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitHubDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9842F6928D8652200744775 /* GitHubDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubDemoUITests.swift; sourceTree = "<group>"; };
 		A9842F6B28D8652200744775 /* GitHubDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A9842F7828D86C6600744775 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A9842F4828D8652000744775 /* AppDelegate.swift */,
 				A9842F4A28D8652000744775 /* SceneDelegate.swift */,
 				A9842F4C28D8652000744775 /* ViewController.swift */,
+				A9842F7828D86C6600744775 /* LoginViewController.swift */,
 				A9842F4E28D8652000744775 /* Main.storyboard */,
 				A9842F5128D8652100744775 /* Assets.xcassets */,
 				A9842F5328D8652100744775 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9842F7928D86C6600744775 /* LoginViewController.swift in Sources */,
 				A9842F4D28D8652000744775 /* ViewController.swift in Sources */,
 				A9842F4928D8652000744775 /* AppDelegate.swift in Sources */,
 				A9842F4B28D8652000744775 /* SceneDelegate.swift in Sources */,
